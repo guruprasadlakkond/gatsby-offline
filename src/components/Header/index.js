@@ -1,6 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
 // Editing the for testing
+//adding comment
+
 const Header = () => (
   <div
     style={{
